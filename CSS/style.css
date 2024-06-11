@@ -60,6 +60,7 @@ footer ul {
   padding-top: 10%;
   height: 200px;
 }
+
 .footer {
   padding-left: 0;
 }
@@ -75,9 +76,11 @@ footer ul {
   padding-top: 2%;
   padding-bottom: 2%;
 }
+
 .mySkills {
   text-align: center;
 }
+
 .myWork {
   text-align: center;
   padding-left: 15%;
@@ -95,15 +98,19 @@ footer ul {
     "imageArea3 bodyArea3 ";
   padding-bottom: 2%;
 }
+
 .workGrid div {
   padding-bottom: 3%;
 }
+
 .flexContainer img {
   height: 100px;
 }
+
 .gridImage1 {
   grid-area: imageArea1;
 }
+
 .gridBody1 {
   grid-area: bodyArea1;
 }
@@ -111,12 +118,15 @@ footer ul {
 .gridImage2 {
   grid-area: imageArea2;
 }
+
 .gridBody2 {
   grid-area: bodyArea2;
 }
+
 .gridImage3 {
   grid-area: imageArea3;
 }
+
 .gridBody3 {
   grid-area: bodyArea3;
 }
