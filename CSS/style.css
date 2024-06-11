@@ -64,11 +64,11 @@ footer ul {
   padding-left: 0;
 }
 
-div.flexContainer {
+.flexContainer {
   display: flex;
 }
 
-div.flexContainer div {
+.flexContainer div {
   width: 33%;
   padding-left: 3%;
   padding-right: 3%;
@@ -83,7 +83,8 @@ div.flexContainer div {
   padding-left: 15%;
   padding-right: 15%;
 }
-div.workGrid {
+
+.workGrid {
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -134,7 +135,7 @@ div.workGrid {
     padding-left: 0%;
     padding-right: 0%;
   }
-  div.workGrid {
+  .workGrid {
     flex-direction: colum;
     grid-template-columns: 1fr;
     grid-template-rows: 350px 350px 350px 350px 350px 350px;
